@@ -1,4 +1,4 @@
-# formalmee
+# Damian Ayala resume portal
 ### major projects in support of Bachelors Administration At California State Polytechnic University, CA (Cal Poly)
 
 Business inteliigence for excel 
